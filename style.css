@@ -11,9 +11,11 @@
     font-size: 70px;
     font-weight: 900;
     text-align: center;
-    padding: 100px 120px 10px;
+    padding: 230px 120px 10px;
     color: white;
+    
 }
+
 
 .first-section p{
     text-align: center;
@@ -181,3 +183,63 @@
     margin-bottom: 50px;
 }
 
+/* .....Our Donation Plan End...... */
+
+/* Email Subscribe Section Starts */
+
+.newsletter-box h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.newsletter-box p{
+    font-size: 18px;
+    text-align: center;
+    padding: 10px 580px;
+}
+
+
+.form input[type='text']{
+    border: none;
+    background-color: #D9D9D9;
+    padding: 18px 70px;
+    color: black;
+}
+
+.form input[type='submit']{
+    border: none;
+    background-color: #FF5959;
+    padding: 18px 40px;
+    margin-left: -5px;
+}
+
+.form-section{
+    margin: 20px 250px;
+    padding: 80px 430px;
+    background-color: #fff4d6;
+    border-radius: 20px;
+}
+
+.fifth-section{
+    margin-bottom: 120px;
+}
+
+/* ........Email Subscription End*/
+
+/* Footer Start */
+
+footer{
+    background-color: #0B0D17;
+    padding: 5% 0;
+}
+
+footer h1{
+    color: #FF5959;
+    font-size: 40px;
+    text-align: center;
+}
+
+footer p{
+    color: #fff;
+    text-align: center;
+}
