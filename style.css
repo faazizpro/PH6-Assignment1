@@ -85,4 +85,99 @@
     border: 3px solid #FF5959;
 }
 
+.input-area{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.input-area input{
+    border: none;
+    font-size: 20px;
+}
+
+.divider{
+    border: 0;
+    border: 1px solid #DADADA;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+}
+
+.donate-btn a{
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 17px 30px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.donate-btn{
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* .....Complete Donate Today Section.... */
+
+/* ....Our Donation Plan Starts..... */
+
+
+.donation-first-part h1{
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.donation-first-part p{
+    font-size: 18px;
+    margin: 0 250px;
+    text-align: center;
+    color: #808080;
+}
+
+
+
+.donation-plan{
+    margin: 0 30px;
+}
+
+.donation-plan h1{
+    margin: 20px 0;
+}
+
+.three-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    margin: 40px 20px;
+    padding: 70px 35px;
+}
+
+.card-1{
+    background-color: #EDF5F6;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.card-2{
+    background-color: #FFEEEE;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.card-3{
+    background-color: #FFF4D6;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.third-section{
+    margin-bottom: 50px;
+}
 
