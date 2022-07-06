@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* Here I've used Poppins Google font */
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: ;
+}
+
+.first-section h1{
+    font-size: 70px;
+    font-weight: 900;
+    text-align: center;
+    padding: 100px 120px 10px;
+    color: white;
+}
+
+.first-section p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 0 250px;
+    color: white;
+}
+
+.btn a{
+     text-decoration: none;
+     color: white;
+     background-color: #FF5959;
+     padding: 20px 30px;
+     border-radius: 10px;
+     font-size: 20px;
+     font-weight: 500;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.first-section{
+    background-image: url(images/human/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+/* .........Head Section Completed....... */
